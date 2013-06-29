@@ -1,6 +1,17 @@
 = hk_holidays
 
-Description goes here.
+Tells you if a specific date is a Hong Kong holidays
+
+== Examples
+
+== Notes
+
+
+== TODOs
+
+* Test cases
+* Expand list of holidays back to year 2000
+* date.is_hk_holiday?(type: statutory) or .is_hk_holiday?(type: labour)
 
 == Contributing to hk_holidays
  
