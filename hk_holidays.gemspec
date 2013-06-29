@@ -19,10 +19,12 @@ Gem::Specification.new do |s|
   s.files = [
     ".document",
     "Gemfile",
+    "Gemfile.lock",
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "hk_holidays.gemspec",
     "lib/core_ext/date.rb",
     "lib/hk_holidays.rb",
     "lib/hk_holidays.yml",
